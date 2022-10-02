@@ -1,0 +1,10 @@
+.main{
+    height: 400px;
+    width: 700px;
+    background-color:#e06666;
+    /*display:flex; dejar comentado por el momento */
+    margin-top: 25px;
+    padding: 12.5px;
+    border:3px solid black;
+    border-radius: 25px;
+}
